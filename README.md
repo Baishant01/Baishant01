@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Baishant Pachhai  
-
-🎓 **BIT Student @ Texas College of Management & IT (Nepal)**  
+ 
 📚 Currently diving into:  
 - 🤖 Artificial Intelligence (AI)  
 - 🧠 Machine Learning (ML)  
@@ -29,29 +28,3 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)  
 
 ---
-
-## 📈 My Learning Roadmap  
-
-```mermaid
-graph TD
-  A[BIT Studies] --> B[AI Basics]
-  B --> C[Machine Learning]
-  C --> D[Deep Learning]
-  D --> E[Data Science Projects]
-  E --> F[Data Analysis + Visualization]
-  F --> G[Full-stack AI Applications]## Hi there 👋
-
-<!--
-**Baishant01/Baishant01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
