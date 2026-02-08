@@ -1,30 +1,23 @@
-# 👋 Hi, I'm Baishant Pachhai  
- 
-📚 Currently diving into:  
-- 🤖 Artificial Intelligence (AI)  
-- 🧠 Machine Learning (ML)  
-- 🔬 Deep Learning (DL)  
-- 📊 Data Science & Data Analysis  
+# 💫 About Me:
+Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
 
----
 
-## 🌟 About Me  
-- 🌱 I’m learning step by step with **projects + theory**  
-- 💡 Passionate about solving **real-world problems with data**  
-- 🛠️ Interested in **AI-powered applications** & **research in ML/DL**  
-- 📝 Documenting my journey here on GitHub  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baishant-pachhai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baishant005@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🛠️ Tech Stack (Learning & Practicing)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=baishant01&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black&style=for-the-badge)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
