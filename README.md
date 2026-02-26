@@ -17,7 +17,7 @@ Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Baishant01&theme=transparent&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)How to center this in github readme
+![](https://github-readme-stats.vercel.app/api?username=Baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Baishant01&theme=transparent&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
