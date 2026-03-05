@@ -21,4 +21,3 @@ Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
