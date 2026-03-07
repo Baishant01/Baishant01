@@ -3,7 +3,8 @@ Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baishant-pachhai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baishant005@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baishant-pachhai) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baishant005@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,8 +17,6 @@ Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Baishant01&include_all_commits=true&count_private=true&show_icons=true&token=YOUR_GITHUB_TOKEN)
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=Baishant01&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
+![](https://nirzak-streak-stats.vercel.app/?user=Baishant01&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
