@@ -1,46 +1,90 @@
-# 💫 About Me:
-<h1 align="center">Baishant Pachhai</h1>
+#  Baishant Pachhai
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+%7C+TypeScript;" alt="Typing SVG" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&layout=compact&theme=radical&hide_border=true" width="90%" />
-    </td>
-    <td width="50%" align="left">
-      <h3>📋 About Me</h3>
-      <ul>
-        <li>🔭 Working on <strong>Django & React</strong></li>
-        <li>🌱 Learning <strong>TypeScript</strong></li>
-        <li>👯 Open to <strong>collaborations</strong></li>
-        <li>💬 Ask me about <strong>Python/Django</strong></li>
-        <li>📫 Reach me: <strong>baishant005@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>Coffee + Code</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baishant-pachhai) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baishant005@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-# 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=Baishant01&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800)
+---
 
-![](https://streak-stats.demolab.com?user=Baishant01&theme=transparent)
+## About Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&layout=compact&theme=transparent&cache_seconds=1800)
+-  I'm currently working on **Django & React Projects**
+-  I'm currently learning **TypeScript & Advanced React**
+-  Ask me about **Python, Django, JavaScript**
+-  Reach me: **baishant005@gmail.com**
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/baishant-pachhai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:baishant005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Baishant01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+---
+
+## GitHub Stats
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com?user=Baishant01&theme=transparent&hide_border=true" width="48%" />
+</div>
+
+
+
+---
+
+##  Quick Info
+
+| | |
+|---|---|
+| **📧 Email** | baishant005@gmail.com |
+| **🔗 LinkedIn** | [baishant-pachhai](https://linkedin.com/in/baishant-pachhai) |
+| **💻 GitHub** | [Baishant01](https://github.com/Baishant01) |
+
+
+---
+
+### 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" width="80%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! 😊</b>
+</p>
