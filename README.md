@@ -17,6 +17,10 @@ Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Baishant01&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
-![](https://nirzak-streak-stats.vercel.app/?user=Baishant01&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Baishant01&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800)
+
+![](https://streak-stats.demolab.com?user=Baishant01&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&layout=compact&theme=transparent&cache_seconds=1800)
