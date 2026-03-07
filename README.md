@@ -1,7 +1,27 @@
 # 💫 About Me:
-Currently debugging my way through ReactJS, TypeScript, Django, and PostgreSQL.
+<h1 align="center">Baishant Pachhai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+</p>
 
-
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baishant01&layout=compact&theme=radical&hide_border=true" width="90%" />
+    </td>
+    <td width="50%" align="left">
+      <h3>📋 About Me</h3>
+      <ul>
+        <li>🔭 Working on <strong>Django & React</strong></li>
+        <li>🌱 Learning <strong>TypeScript</strong></li>
+        <li>👯 Open to <strong>collaborations</strong></li>
+        <li>💬 Ask me about <strong>Python/Django</strong></li>
+        <li>📫 Reach me: <strong>baishant005@gmail.com</strong></li>
+        <li>⚡ Fun fact: <strong>Coffee + Code</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baishant-pachhai) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baishant005@gmail.com) 
