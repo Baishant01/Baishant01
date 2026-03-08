@@ -17,7 +17,6 @@
 
 -  I'm currently working on **Django & React Projects**
 -  I'm currently learning **TypeScript & Advanced React**
--  Ask me about **Python, Django, JavaScript**
 -  Reach me: **baishant005@gmail.com**
 
 ---
