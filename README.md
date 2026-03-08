@@ -71,81 +71,11 @@
 ---
 ## WakaTime Stats
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+## ⏱️ WakaTime Stats
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 6.7 kB Used in GitHub's Storage 
- > 
-> 🏆 41 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-🌆 Daytime                34 commits          ███████████░░░░░░░░░░░░░░   43.59 % 
-🌃 Evening                28 commits          █████████░░░░░░░░░░░░░░░░   35.90 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Tuesday                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Thursday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Saturday                 12 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Sunday                   31 commits          ██████████░░░░░░░░░░░░░░░   39.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Baishant01/Baishant01/main/assets/bar_graph.png)
-
-
- Last Updated on 08/03/2026 10:33:47 UTC
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="profile/wakatime.svg" alt="WakaTime Stats" />
+</div>
 
 ---
 
