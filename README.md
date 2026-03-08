@@ -1,7 +1,12 @@
-#  Baishant Pachhai
+<h1 align="center">
+  Hi there
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <br>
+  I'm <span style="color: #4ECDC4;">Baishant Pachhai</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+%7C+TypeScript;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=fff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+%7C+TypeScript;" alt="Typing SVG" />
 </p>
 
 
@@ -68,23 +73,18 @@
 
 ---
 
-##  Quick Info
-
-| | |
-|---|---|
-| **📧 Email** | baishant005@gmail.com |
-| **🔗 LinkedIn** | [baishant-pachhai](https://linkedin.com/in/baishant-pachhai) |
-| **💻 GitHub** | [Baishant01](https://github.com/Baishant01) |
-
-
----
-
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting! 😊</b>
+  <b>Thanks for visiting my profile</b>
+  <br><br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="35" style="position: relative; top: -5px;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="40" style="position: relative; top: 0px;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="35" style="position: relative; top: -5px;" />
+</p>
 </p>
